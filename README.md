@@ -15,7 +15,6 @@
 
 - 🔭 I’m currently working at [Sciling](https://sciling.com/?lang=en)
 -  :sun_with_face: Currently interested in machine listening problems and computer vision
-- :sparkles: I love good discussions. Best way to reach me: [Twitter - @ayushthakur0](htt
  
 <a href="https://github.com/JNaranjo-Alcazar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JNaranjo-Alcazar&show_icons=true&theme=dark&line_height=27" alt="My github stats"/>
