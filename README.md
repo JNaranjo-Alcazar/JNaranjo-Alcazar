@@ -12,6 +12,10 @@
 <a href="https://github.com/Machine-Listeners-Valencia">
   <img align="left" alt="My Organization GitHub profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://roderic.uv.es/handle/10550/77168">
+  <img align="left" alt="My Doctoral Thesis" width="25px" src="https://icons.iconarchive.com/icons/iconsmind/outline/512/Student-Hat-icon.png" />
+</a>
+
 
 
 <br/>
