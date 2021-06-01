@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working at [Sciling](https://sciling.com/?lang=en)
+- 🔭 I’m currently working at [ITI](https://www.iti.es/)
 -  <p>&#129488; Currently interested in machine listening problems and computer vision </p>
 - <p>&#128516; Regular participant in the DCASE Challenge</p> 
  
